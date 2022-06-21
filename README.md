@@ -6,10 +6,10 @@ This sample demonstrates how to protect endpoints in an Express API by verifying
 Getting Started
 create a new API in the Auth0 dashboard.
 
-Clone the repo.
+Clone the repo from the Master branch.
 
 Setup the .env File
-You will need to change the valuesa in the .env file to match the values as seen in your Auth0 dashboard.
+You will need to change the values in the .env file to match the values as seen in your Auth0 dashboard.
 
 Install the Dependencies and Start the API
 npm install
